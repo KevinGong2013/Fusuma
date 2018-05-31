@@ -76,6 +76,8 @@ public var fusumaCameraTitle     = "Photo"
 public var fusumaVideoTitle      = "Video"
 public var fusumaTitleFont       = UIFont(name: "AvenirNext-DemiBold", size: 15)
 
+public var fusumaAutoSelectFirstAssert = true
+
 public var autoDismiss: Bool = true
 
 @objc public enum FusumaMode: Int {
